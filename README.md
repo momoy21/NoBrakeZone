@@ -1,5 +1,5 @@
 # NoBrakeZone
-<p><b>No Brake Zone</b> adalah sebuah permainan seru yang menantang pemain untuk mengendalikan mobil tanpa kemampuan mengerem. Permainan ini menghadirkan pengalaman unik dengan arena berupa jalan raya yang dikelilingi bangunan kota. Pemain harus menghindari rintangan berupa mobil-mobil lain di jalan dan menjaga mobil tetap di jalur. Jika mobil menabrak rintangan, mobil akan hancur dan permainan berakhir.<br><br>
+<p><b>No Brake Zone</b> adalah sebuah permainan seru yang saya buat bersama dengan 2 teman lainnya, permainan seru dan menantang pemain untuk mengendalikan mobil tanpa kemampuan mengerem. Permainan ini menghadirkan pengalaman unik dengan arena berupa jalan raya yang dikelilingi bangunan kota. Pemain harus menghindari rintangan berupa mobil-mobil lain di jalan dan menjaga mobil tetap di jalur. Jika mobil menabrak rintangan, mobil akan hancur dan permainan berakhir.<br><br>
 
 <b>Fitur Aplikasi:</b><br>
 1. <b>Fitur Menu:</b><br>
